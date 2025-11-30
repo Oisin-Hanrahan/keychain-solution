@@ -64,7 +64,7 @@ v v v
 
 - **Official Website:** https://keychain.team  
 - **GitHub Repository:** https://github.com/Oisin-Hanrahan/keychain-solution  
-- **Contact:** team@keychain.team  
+- **Contact:** oisin@keychain.team  
 
 ---
 
